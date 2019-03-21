@@ -1,2 +1,2 @@
 # fontawesome_com
-fontawesome.com Plugin for Aghape Framework
+fontawesome.com Plugin for Ecletus Framework

@@ -4,12 +4,12 @@ import (
 	"fmt"
 	"path"
 
-	"github.com/aghape/assets"
+	"github.com/ecletus/assets"
 	"github.com/gobwas/glob"
 
-	"github.com/aghape/core"
-	"github.com/aghape/plug"
-	"github.com/aghape/render"
+	"github.com/ecletus/core"
+	"github.com/ecletus/plug"
+	"github.com/ecletus/render"
 	"github.com/moisespsena/template/html/template"
 )
 
